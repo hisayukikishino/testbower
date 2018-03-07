@@ -1,0 +1,17 @@
+{
+  "name": "bowertest",
+  "homepage": "https://github.com/hisayukikishino/testbower",
+  "authors": [
+    "Galboa_Inc_PC_No028 <kishino_hisayuki@galboa.co.jp>"
+  ],
+  "description": "",
+  "main": "calc.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
